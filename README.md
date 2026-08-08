@@ -27,6 +27,7 @@ FancyboxViewer is a Piwigo plugin that opens images and videos directly in **Fan
 ## Requirements
 
 - Piwigo 15 or later
+- Php 8+
 
 ## Fancybox
 
