@@ -2,6 +2,12 @@
 /*
 Plugin Name: Fancybox Viewer
 Version: 1.0.0
+Plugin URI:
+Author: klaoun2
+Description: Piwigo fancybox
+Has Settings: true
+
+
 
 */
 
